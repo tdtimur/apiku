@@ -1,0 +1,37 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.log
+*.idea
+.idea/
+# venv
+env
+venv
+dist/
+build/
+*.egg-info/
+ref
+log
+
+# other
+.DS_Store
+
+# sphinx docs
+_build
+_static
+_templates
+
+# javascript
+package-lock.json
+
+# Migrations
+
+migrations
